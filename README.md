@@ -5,8 +5,8 @@ Aplicativo de dicionário feito com Python e Tkinter na GUI.
 | -------------  | --- |
 | :sparkles: Nome        | **Aplicativo de Dicionário com Python**
 | :label: Tecnologias | python, tkinter
-| :rocket: URL         | https://github.com/momosousa/guess-the-word-game
-| :fire: Desafio     | https://github.com/luizomf/cursopython2023/blob/85e3eff2d54b1e24aa96093c46d7d5e77c60075d/aula47.py
+| :rocket: URL         | https://github.com/momosousa/app-dicionario
+| :fire: Desafio     | https://encurtador.com.br/aCFLX
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://i.imgur.com/1X7hL42.png#vitrinedev)
