@@ -9,7 +9,7 @@ Aplicativo de dicionário feito com Python e Tkinter na GUI.
 | :fire: Desafio     | https://github.com/luizomf/cursopython2023/blob/85e3eff2d54b1e24aa96093c46d7d5e77c60075d/aula47.py
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://i.imgur.com/mi5ddlT.png#vitrinedev)
+![](https://i.imgur.com/DXpIqJZ.png#vitrinedev)
 
 ## Detalhes do projeto
 Este é um projeto de aplicativo de dicionário que utiliza a API pública [dicio-api-ten.vercel.app](https://dicio-api-ten.vercel.app/) para pesquisar definições de palavras. 
