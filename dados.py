@@ -3,7 +3,7 @@ import requests
 import json
 
 # link contendo a api
-api_link = "https://dicio-api-ten.vercel.app/v2/comer"
+api_link = "https://dicio-api-ten.vercel.app/v2/palavra"
 
 # requests
 r = requests.get(api_link)
